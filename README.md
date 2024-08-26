@@ -21,7 +21,7 @@ This project is a frontend application for managing bids, built with React and V
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/sahil0028/bid-management-frontend.git
+git clone https://github.com/sahil0028/sahil-wasserstoff-FullstackInternTask.git
 
 2. Navigate to the project directory:
 
