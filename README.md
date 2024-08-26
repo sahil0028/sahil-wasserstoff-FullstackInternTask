@@ -2,6 +2,10 @@
 
 This project is a frontend application for managing bids, built with React and Vite.
 
+Api calling might be slow due to backend on render.
+
+Live project link.-https://bid-management-frontend.vercel.app/
+
 ## Features
 
 - User can submit bids for various products.
