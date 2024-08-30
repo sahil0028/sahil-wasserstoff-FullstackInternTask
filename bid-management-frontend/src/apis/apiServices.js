@@ -1,5 +1,4 @@
 export const Base_url='http://localhost:3000'
-// export const Base_url='https://backend-xco6.onrender.com'
 import axios from 'axios'
 
 class  ApiServices {
